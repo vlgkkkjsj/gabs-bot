@@ -1,0 +1,23 @@
+{
+  "name": "gabs-bot",
+  "version": "1.0.0",
+  "description": "um bot de discord em node.js inspirado em homenagem a  minha namorada",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlgkkkjsj/gabs-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlgkkkjsj/gabs-bot/issues"
+  },
+  "homepage": "https://github.com/vlgkkkjsj/gabs-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security"
+  }
+}
