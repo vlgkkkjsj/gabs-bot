@@ -55,7 +55,7 @@ client.on("messageCreate", async (message) => {
 
 
       client.on("guildMemberAdd", (member) =>{
-        let canal_logs = "";//ID do canal do discord
+        let canal_logs = "1021599562961526816";
         if(!canal_logs) return;
 
         let embed = new Discord.EmbedBuilder()
@@ -68,7 +68,7 @@ client.on("messageCreate", async (message) => {
       })
 
       client.on("guildMemberRemove", (member) => {
-        let canal_logs = ""; //ID do canal do discord
+        let canal_logs = "1021599616199831583"; 
         if (!canal_logs) return;
       
         let embed = new Discord.EmbedBuilder()
